@@ -21,7 +21,7 @@ versions:
 
 ### What counts as a contribution
 
-On your profile page, certain actions count as contributions:
+On your profile page, certain actions count as contributions:-
 
 - Committing to a repository's default branch or `gh-pages` branch
 - Opening an issue
